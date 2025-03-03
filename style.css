@@ -1,0 +1,50 @@
+*{
+    padding : 0;
+    margin : 0;
+    font-family: "Heebo", sans-serif;
+}
+header div a{
+    text-decoration : none;
+    color : black;
+    font-size : 26px;   
+    font-weight : bold;
+}
+.intromsg {
+    font-size : 44px;
+    font-weight : 700;
+}
+.downloadBtn {
+    font-size : 20px;
+    height : 47px;
+    width : 208px;
+    background-color : #FF6464;
+    border : none;
+    border-radius : 5px; 
+}
+.frontpic {
+    height : 70%;
+    width : 60%;
+    border-radius : 40%;
+    object-fit : cover;
+    background-position : center;
+}
+
+.second-slide {
+    background-color : #EDF7FA;
+    display : grid;
+    place-items : center;
+}
+
+.recentposts {
+    font-size : 22px;
+}
+.project-heading {
+    font-size : 30px;
+    font-weight : bold;
+}
+.project-year {
+    gap : 30px;
+}
+.connectBtn a{
+    color : rgb(19, 19, 83);
+}
